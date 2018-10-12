@@ -1,0 +1,11 @@
+D:\Projects\NKUST1071\1005\OpenDataImport\OpenDataImport\bin\Debug\netcoreapp2.1\OpenDataImport.deps.json
+D:\Projects\NKUST1071\1005\OpenDataImport\OpenDataImport\bin\Debug\netcoreapp2.1\OpenDataImport.runtimeconfig.json
+D:\Projects\NKUST1071\1005\OpenDataImport\OpenDataImport\bin\Debug\netcoreapp2.1\OpenDataImport.runtimeconfig.dev.json
+D:\Projects\NKUST1071\1005\OpenDataImport\OpenDataImport\bin\Debug\netcoreapp2.1\OpenDataImport.dll
+D:\Projects\NKUST1071\1005\OpenDataImport\OpenDataImport\bin\Debug\netcoreapp2.1\OpenDataImport.pdb
+D:\Projects\NKUST1071\1005\OpenDataImport\OpenDataImport\obj\Debug\netcoreapp2.1\OpenDataImport.csprojAssemblyReference.cache
+D:\Projects\NKUST1071\1005\OpenDataImport\OpenDataImport\obj\Debug\netcoreapp2.1\OpenDataImport.csproj.CoreCompileInputs.cache
+D:\Projects\NKUST1071\1005\OpenDataImport\OpenDataImport\obj\Debug\netcoreapp2.1\OpenDataImport.AssemblyInfoInputs.cache
+D:\Projects\NKUST1071\1005\OpenDataImport\OpenDataImport\obj\Debug\netcoreapp2.1\OpenDataImport.AssemblyInfo.cs
+D:\Projects\NKUST1071\1005\OpenDataImport\OpenDataImport\obj\Debug\netcoreapp2.1\OpenDataImport.dll
+D:\Projects\NKUST1071\1005\OpenDataImport\OpenDataImport\obj\Debug\netcoreapp2.1\OpenDataImport.pdb
